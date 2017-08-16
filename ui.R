@@ -13,6 +13,7 @@ shinyUI(fluidPage(
     # Titulo pagina incial
     #------------
     
+    
     headerPanel("Aprendizado Estatistica utilizando software livre"),
     # mainPanel("Objetivo: Este portal tem como objetivo de compartilhar conhecimentos academicos estatisticos"),
     #------------
